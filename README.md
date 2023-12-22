@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <h1 align="center">Single Price Grid Component</h1>
 
-This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 ## 📝 Table of contents
@@ -17,21 +17,27 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [Like My Work](#like-my-work)
 
 ## 🛠 The challenge <a id="the-challenge"></a>
+
+The challenge is to build out this landing page and get it looking as close to the design as possible.
+
 Users should be able to:
 
-- View the optimal layout for the component depending on their device's screen size
-- See a hover state on desktop for the Sign Up call-to-action
-
+- See all testimonials in a horizontal slider
+- Receive an error message when the newsletter sign-up form is submitted if:
+- The input field is empty
+- The email address is not formatted correctly
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
 
 ## 🚀 Demo <a id="demo"></a>
 
-<h4><a href="https://yawsamcode.github.io/single-price-grid-component/">  Visit Demo 👉</a></h4>
+<h4><a href="#">  Visit Demo 👉</a></h4>
 
 
 ## 📸Project Screenshots <a id="screenshot"></a>
 
-<img src="https://res.cloudinary.com/dlykqebw2/image/upload/v1702629082/desktop-design_fcqpzu.jpg" alt="shields">
-<img src="https://res.cloudinary.com/dlykqebw2/image/upload/v1702629038/mobile-design_rtvmfn.jpg" alt="shields">
+<img src="https://res.cloudinary.com/dlykqebw2/image/upload/v1703282263/desktop-design_c8ifov.jpg" alt="shields">
+
 
   
 ## 💻 Built with <a id="built-with"></a>
@@ -39,12 +45,13 @@ Users should be able to:
 Technologies used in the project:
 
 *  HTML
-*  CSS
+*  CSS (Tailwindcss)
+*  Javascript 
   
 
 ## 📖 What I learned <a id="what-i-learned"></a>
 
-<p>This challenge helped to reinforce my skills in the use of grid</p>
+<p> Will update shortly</p>
 
 ## 🛡️ License <a id="license"></a>
 
