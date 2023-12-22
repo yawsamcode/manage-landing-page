@@ -2,12 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer components {
-  .menuHover {
-    @apply hover:text-darkGrayishBlue;
-  }
-}
-
 body {
   background-image: url(../images/bg-tablet-pattern.svg);
   background-repeat: no-repeat;
