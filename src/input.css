@@ -25,7 +25,7 @@ body {
   }
 }
 
-/*Hamburger Menu*/
+/* Hamburger Menu */
 
 .hamburger {
   cursor: pointer;
@@ -58,7 +58,7 @@ body {
 
 .open {
   transform: rotate(90deg);
-  transform: translateY(0px);
+  transform: translateY(0);
 }
 
 .open .hamburger-top {
