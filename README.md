@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-<h1 align="center">Single Price Grid Component</h1>
+<h1 align="center">Manage landing page</h1>
 
 This is a solution to the [Manage landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
