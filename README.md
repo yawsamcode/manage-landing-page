@@ -55,7 +55,7 @@ Technologies used in the project:
 
 ## 🛡️ License <a id="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](/LICENSE) licensed.
 
 ## 🤴Author <a id="author"></a>
 
