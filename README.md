@@ -51,7 +51,11 @@ Technologies used in the project:
 
 ## 📖 What I learned <a id="what-i-learned"></a>
 
-<p> Will update shortly</p>
+<p>This was a very challenging but very rewarding at the end. 
+I learnt how to use javacsript and CSS to create hambuger menu without using icons or images. 
+I also leant how to create form validation in tailwind by making use 
+of this article <a href="https://dev.to/deyemiobaa/adding-custom-validation-to-a-form-with-tailwindcss-1e7d"></a>
+</p>
 
 ## 🛡️ License <a id="license"></a>
 
