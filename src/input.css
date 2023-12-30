@@ -3,14 +3,14 @@
 @tailwind utilities;
 
 body {
-  background-image: url("./images/bg-tablet-pattern.svg");
+  background-image: url("https://res.cloudinary.com/dlykqebw2/image/upload/v1703963710/bg-tablet-pattern_dvgtgl.svg");
   background-repeat: no-repeat;
   background-size: 800px;
   background-position: 90% -25%;
 }
 
 #cta {
-  background-image: url("./images/bg-simplify-section-desktop.svg");
+  background-image: url("https://res.cloudinary.com/dlykqebw2/image/upload/v1703963710/bg-simplify-section-desktop_m1lns9.svg");
   background-repeat: no-repeat;
 }
 
@@ -21,7 +21,7 @@ body {
   }
 
   #cta {
-    background-image: url("./images/bg-simplify-section-mobile.svg");
+    background-image: url("https://res.cloudinary.com/dlykqebw2/image/upload/v1703963710/bg-simplify-section-mobile_cdawu5.svg");
   }
 }
 
